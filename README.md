@@ -2,7 +2,7 @@
 
 <hr />
 
-<a href="hhttps://www.linkedin.com/in/marcelo-block-frontend-developer/?locale=en_US">
+<a href="https://www.linkedin.com/in/marcelo-block-frontend-developer/?locale=en_US">
   <img align="left" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  />
 </a>
 <a href="mailto:marcelochb@gmail.com">
