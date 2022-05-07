@@ -3,10 +3,10 @@
 <hr />
 
 <a href="hhttps://www.linkedin.com/in/marcelo-block-frontend-developer/?locale=en_US">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  />
 </a>
 <a href="mailto:marcelochb@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" />
 </a>
 
 <br/>
