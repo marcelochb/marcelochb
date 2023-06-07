@@ -12,7 +12,7 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Front-end developer** with a bachelor's degree in information systems and with 6+ of experience designing and building responsive web design and mobile apps, with skill of programming to deliver an immersive and engaging user experience connected with business goals and values. Experienced in object-oriented programming, developing, testing, debugging, and designing interfaces to provide more maintenance and decrease rework and costs. 
+💻 I’m a **Front-end developer** with a bachelor's degree in information systems and with 4+ of experience designing and building responsive web design and mobile apps, with skill of programming to deliver an immersive and engaging user experience connected with business goals and values. Experienced in object-oriented programming, developing, testing, debugging, and designing interfaces to provide more maintenance and decrease rework and costs. 
 . </br> </br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
